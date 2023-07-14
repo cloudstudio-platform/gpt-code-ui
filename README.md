@@ -14,7 +14,7 @@ Judah Cooper offered to start & curate a Discord community. Join [here](https://
 Open a terminal and run:
 
 ```
-pip install gpt-code-ui
+pip install --extra-index-url https://pypi.python.org/simple gpt-code-ui
 gptcode
 ```
 
